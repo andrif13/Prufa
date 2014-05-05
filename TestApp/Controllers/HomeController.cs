@@ -15,7 +15,7 @@ namespace TestApp.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Svenni fighter.";
+            ViewBag.Message = "Svenni kúkalabbi.";
 
             return View();
         }
